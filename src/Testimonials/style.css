@@ -1,0 +1,153 @@
+.testimonials-backgrounds {
+    margin-left: 10%;
+    margin-right: 10%;
+  }
+   
+  .testimonials {
+    display: flex;
+  } 
+
+  .testimonials h1 {
+    font-size: 2rem;
+    margin-bottom: 10px;
+  }
+  
+  .testimonials p {
+    font-size: 1rem;
+    margin-bottom: 20px;
+  }
+  
+  .testimonials-image {
+    display: flex;
+    gap: 3%;
+    margin-top: 5%;
+  }
+  
+  .testimonials-icon {
+    display: flex;
+    border: solid 2px #CFCFCF;
+    border-radius: 5%;
+    padding: 20px 40px;
+  }
+  
+  .testimonials-paragraph,
+  .image-paragraph {
+    text-align: left;
+  }
+  
+  .testimonials-paragraph img,
+  .image-paragraph img {
+    margin-bottom: 10px;
+    width: 100px;
+  }
+  
+  .testimonials-paragraph p,
+  .image-paragraph p {
+    font-size: 1rem;
+    margin-bottom: 10px;
+  }
+  
+  .testimonials-paragraph h3,
+  .image-paragraph h3 {
+    font-size: 1.2rem;
+  }
+  
+  .girl-image,
+  .boy-image {
+    margin-top: 20px;
+  }
+  
+  .girl-image img,
+  .boy-image img {
+    width: 20em; 
+    height: 30em;
+  }
+  .testimonials-paragraph p{
+    font-size: 30px;
+  }  
+ .testimonials-paragraph h3{
+    font-size: 30px;
+ }
+ .image-paragraph h3{
+    font-size: 30px;
+ }
+ .image-paragraph p{
+    font-size: 30px;
+ }
+
+ .testimonial p{
+    font-size: 20px;
+ }
+
+ .testimonials {
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .testimonial h1 {
+    font-size: 8rem;
+    margin-bottom: 10px;
+  }
+  
+  .testimonial p {
+    font-size: 1.3rem;
+    margin-bottom: 20px;
+  }
+  
+  .testimonials img {
+    width: 260px;
+    height: 260px;
+  }
+
+  .statistics {
+    display: flex;
+    gap: 12%;
+    margin-left: 10%;
+    margin-top: 5%;
+    font-size: 26px;
+    color: white;
+  }
+  
+
+  .statistics1 img {
+    width: 50px; 
+    height: auto; 
+  }
+  .statistics-background{
+    background-color: #3734A9;
+    padding: 2px;
+    margin-top: 5%;
+  }
+
+  .statistics-icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .statistics-icons{
+    color: #B1CA16;
+  }
+  
+  .statistics-icon p {
+    margin: 0;
+    margin-left: 5px; 
+  }
+  .statistics-number{
+    font-size: 50px;
+    font-weight: bolder;
+  }
+  .vertical-lines{
+    height: 150px;
+    color: black;
+  }
+  .statistics1{
+    margin-bottom: 5%;
+  }
+
+
+
+
+  
+
+ 
+   

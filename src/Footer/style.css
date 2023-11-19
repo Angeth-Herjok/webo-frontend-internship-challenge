@@ -1,0 +1,90 @@
+.footer {
+    display: flex;
+    gap: 11%;
+    margin-left: 10%;
+    margin-top: 5%;
+  }
+  .footer-background{
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
+
+  }
+  
+  .footer-logo h1{
+    font-size: 46px;
+    font-weight: bolder;
+  }
+  .footer-logo p{
+    font-size: 25px;
+    color: #757095;
+  }
+  
+  .footer-icon {
+    display: flex;
+    gap: 20px;
+    margin-top: 26px;
+    font-size: 30px;
+    color: #3734A9;
+  }
+  
+  .footer-company,
+  .footer-resources{
+    max-width: 200px;
+    font-size: 22px;
+  }
+  .footer-company h1{
+    font-weight: lighter;
+
+  }
+  .footer-resources h1{
+    font-weight: lighter;
+
+  }
+  .newsletter h1{
+    font-weight: lighter;
+    font-size: 40px;
+  }
+  .newsletter p{
+    font-size: 25px;
+    color: #181433;
+    margin-left: 15%;
+
+  }
+  
+  .newsletter button {
+    margin-top: 10px;
+    background-color: #4F46BA;
+    color: white;
+    padding: 8px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .copyright {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 26px;
+  }
+  
+
+
+.two-color-button-container {
+    display: flex;
+  }
+  
+  .two-color-button-container button {
+    padding: 20px 60px;
+  }
+  
+  .two-color-button-container button:first-child {
+    background: #EEEEFF;
+    color: #181433;
+    font-size: 20px;
+    
+  }
+  
+  .two-color-button-container button:last-child {
+    background: #3734A9;
+    color: white;
+    font-size: 20px;
+  }
+  

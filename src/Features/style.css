@@ -1,0 +1,90 @@
+  .backgrounds {
+    background-color: #C9E7F2;
+    height: 65em;
+  } 
+  .features-heading{
+    font-size: 6rem;
+    color: black;
+    margin-left: 8%;
+  }
+  .features-paragraph{
+    font-size: 2rem;
+    color: black;
+    margin-left: 8%;
+  }
+
+
+  .features {
+    display: flex;
+    margin-left: 10%;
+  }
+  
+  .features-images {
+    display: flex;
+    gap: 5%;
+  }
+  
+  .features-inner-images {
+    display: flex;
+    gap: 5%;
+  }
+  
+  .features-icon {
+    background-color: white;
+    color: black;
+    padding: 30px 110px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.6);
+    font-size: 24px;
+  }
+  .features-icon img{
+    margin-top: 15%;
+  }
+  
+  .merits {
+    margin-top: 20px;
+  }
+  
+  .merits p {
+    font-size: 20px;
+    font-weight: bolder;
+  }
+  
+  .merits1 {
+    background-color: white; 
+    padding: 60px 110px;
+    margin-bottom: 10%;
+    border-radius: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.6);
+  }
+  
+  .merits2 {
+    background-color: white; 
+    padding: 60px 60px;
+    border-radius: 20px;
+    font-size: 50px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.6);
+    font-weight: bolder;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  

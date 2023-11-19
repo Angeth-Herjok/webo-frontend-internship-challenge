@@ -1,0 +1,232 @@
+  h1 {
+    text-align: center;
+    margin-top: 6rem;
+    color: #000000;
+  }
+  .company-list {
+    display: flex;
+    margin-left: 6%;
+    margin-top: 50px;
+    gap: 3%;
+  }
+  .company-list img{
+    width: 240px;
+
+  }
+
+  .about {
+    display: flex;
+    margin-left: 7%;
+    gap: 12%;
+    margin-top: 5%;
+  }
+  
+  .portfolio {
+    font-size: 5rem;
+    font-weight: bolder;
+  }
+  
+  .portfolio-paragraph {
+    font-size: 2rem;
+    color: #555;
+  }
+
+  .testimonial-paragraph {
+    font-size: 1.5rem;
+    color: #555; 
+  }
+  .quotes-icon{
+    width: 120px;
+    margin-bottom: 5%;
+    border-radius: 50px;
+
+  }
+  
+  h2 {
+    font-size: 1.5rem;
+    margin: 10px 0 0;
+    font-weight: bold;
+  }
+
+  .testimonial-container {
+    background-color: #C4C4C4; 
+    padding: 30px 100px;
+    border-radius: 8px; 
+    font-size: 30px;
+  }
+
+ .connections {
+    display: flex;
+    padding: 20px;
+    gap: 5%;
+    margin-left: 6%;
+    margin-top: 5%;
+  }
+  
+  .wallet {
+    text-align: center;
+    padding: 80px;
+    border-radius: 8px;
+    
+  }
+  
+  .first {
+    font-size: 2rem;
+    font-weight: bold;
+    margin-bottom: 20px;
+    margin-right: 8em;
+  }
+  
+  .wallet:nth-child(1) {
+    background-color: #DBE4E9; 
+  }
+  
+  .wallet:nth-child(2) {
+    background-color: #DBE4E9; 
+  }
+  
+  .wallet:nth-child(3) {
+    background-color: #DBE4E9;
+  }
+  
+  .wallet img {
+    width: 50px; 
+    height: 50px; 
+  }
+  
+  .wallet h1 {
+    font-size: 2.5rem;
+    margin: 10px 0;
+  }
+  
+  .wallet-paragraph {
+    font-size: 1.4rem;
+    color: #555; 
+  }
+  
+  .reviews {
+    display: flex;
+    padding: 20px;
+    margin-left: 5%;
+    gap: 10%;
+  }
+  
+  .images-reviews {
+    margin-right: 20px;
+  }
+  
+  .reviews-choose {
+    max-width: 600px;
+  }
+  
+  .reviews h4 {
+    font-size: 1.5rem;
+  }
+  
+  .reviews h1 {
+    font-size: 2rem;
+  }
+  
+  .reviews p {
+    font-size: 1rem;
+    margin-bottom: 10px;
+  }
+  
+  .icons {
+    margin-right: 10px;
+    color: #FDBC64;
+    font-size: 30px;
+  }
+  .reviews-image{
+    width: 70em;
+    height: 50em;
+  }
+  .checkcircle{
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin-top: 5%;
+  }
+  .checkcircle p{
+    font-size: 1.5em;
+  }
+  .choose{
+    margin-top: 20%;
+    font-size: x-large;
+    color: #4F46BA;
+  }
+  .track{
+    font-size: xx-large;
+    margin-top: 5%;
+  }
+  .track-paragraph{
+    margin-top: 5%;
+
+  }
+  .heading-track h1{
+    font-size: 3em;
+  }
+  .heading-track p{
+    font-size: 1.5em;
+    color: #4F46BA;
+  }
+  .line{
+    margin-top: 5%;
+  }
+  .checkcircle p{
+    color: #4F46BA;
+  }
+
+  .pay {
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    margin-left: 8%;
+    gap: 20%;
+  }
+  
+  .pay-paragraph {
+    max-width: 600px; 
+  }
+  
+  .head-pay {
+    margin-right: 20px;
+  }
+  
+  .quotes-head {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  
+  .quotes-paragraph {
+    align-items: center;
+    margin-bottom: 10px;
+    background-color: #C4C4C4;
+    border-radius: 20px;
+  }
+  
+  .quotes-paragraph img {
+    margin-right: 10px;
+    border-radius: 20px;
+  }
+  .transaction{
+    font-size: 4.5em;
+  }
+  .choose1{
+    font-size: 2em;
+    color: #4F46BA;
+  }
+  .transaction-paragraph{
+    font-size: 1.5em;
+    color: #505887;
+  }
+  .quotes-paragraph p{
+    font-size: 1.3em;
+    color: black;
+  }
+  .pay-image img{
+    width: 60em;
+    height: 60em;
+
+  }
