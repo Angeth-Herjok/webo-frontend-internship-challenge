@@ -230,3 +230,214 @@
     height: 60em;
 
   }
+
+
+
+
+
+  @media screen and (max-width: 1200px) {
+    .connections,
+    .reviews,
+    .pay {
+      flex-direction: column;
+      gap: 10%;
+    }
+  
+    .wallet {
+      padding: 40px;
+    }
+  
+    .first {
+      margin-right: 0;
+    }
+    .portfolio {
+      font-size: 1rem;
+      font-weight: bolder;
+    }
+    
+    .portfolio-paragraph {
+      font-size: 1rem;
+      color: #555;
+    }
+    .company-list{
+      flex-direction: column;
+      width: 100px;
+    }
+    h1{
+      font-size: 1rem;
+    }
+  
+
+  }
+  
+  @media screen and (max-width: 992px) {
+    .about,
+    .testimonial-container,
+    .connections,
+    .reviews,
+    .pay {
+      flex-direction: column;
+      gap: 5%;
+    }
+  
+    .portfolio {
+      font-size: 1rem;
+    }
+  
+    .portfolio-paragraph,
+    .testimonial-paragraph {
+      font-size: 1rem;
+    }
+  
+    .wallet {
+      padding: 40px;
+    }
+  
+    .icons {
+      font-size: 20px;
+    }
+  
+    .choose,
+    .track,
+    .transaction {
+      font-size: x-large;
+    }
+  
+    .transaction-paragraph,
+    .choose1 {
+      font-size: 1.2em;
+    }
+  
+    .reviews-image {
+      width: 100%;
+      height: auto;
+    }
+  }
+  
+  @media screen and (max-width: 768px) {
+    .connections,
+    .reviews,
+    .pay {
+      padding: 20px;
+    }
+  
+    .wallet {
+      padding: 20px;
+    }
+  
+    .wallet img {
+      width: 40px;
+      height: 40px;
+    }
+  
+    .wallet h1 {
+      font-size: 2rem;
+    }
+  
+    .reviews h4 {
+      font-size: 1.2rem;
+    }
+  
+    .reviews h1 {
+      font-size: 1.5rem;
+    }
+  
+    .reviews p {
+      font-size: 1rem;
+      margin-bottom: 5px;
+    }
+  
+    .transaction {
+      font-size: 2.5em;
+    }
+  
+    .choose1 {
+      font-size: 1.5em;
+    }
+  
+    .transaction-paragraph {
+      font-size: 1.2em;
+    }
+  
+    .quotes-paragraph p {
+      font-size: 1em;
+    }
+  
+    .pay-image img {
+      width: 100%;
+      height: auto;
+    }
+    .portfolio {
+      font-size: 1rem;
+      font-weight: bolder;
+    }
+    
+    .portfolio-paragraph {
+      font-size: 1rem;
+      color: #555;
+    }
+  }
+  
+  @media screen and (max-width: 576px) {
+    .connections,
+    .reviews,
+    .pay {
+      padding: 10px;
+    }
+  
+    .wallet {
+      padding: 10px;
+    }
+  
+    .wallet img {
+      width: 30px;
+      height: 30px;
+    }
+  
+    .wallet h1 {
+      font-size: 1.5rem;
+    }
+  
+    .reviews h4 {
+      font-size: 1rem;
+    }
+  
+    .reviews h1 {
+      font-size: 1.2rem;
+    }
+  
+    .reviews p {
+      font-size: 0.8rem;
+      margin-bottom: 5px;
+    }
+  
+    .transaction {
+      font-size: 2em;
+    }
+  
+    .choose1 {
+      font-size: 1.2em;
+    }
+  
+    .transaction-paragraph {
+      font-size: 1em;
+    }
+  
+    .quotes-paragraph p {
+      font-size: 0.8em;
+    }
+  
+    .pay-image img {
+      width: 100%;
+      height: auto;
+    }
+    .portfolio {
+      font-size: 1rem;
+      font-weight: bolder;
+    }
+    
+    .portfolio-paragraph {
+      font-size: 1rem;
+      color: #555;
+    }
+  }

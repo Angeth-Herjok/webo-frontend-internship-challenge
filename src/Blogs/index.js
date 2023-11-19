@@ -8,7 +8,6 @@ const Blogs = () => {
         <p className="heading1">Recent Blogs</p>
         <div className="blogs">
             <div>
-            {/* <p>Recent Blogs</p> */}
             <p className="blogs-practics">Best Practices</p>
             <p className="blogs-paragrap">In design active temper be uneasy. <br/>Thirty for remove plenty regard.</p>
             <div className="blogs-icon">

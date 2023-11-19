@@ -68,23 +68,93 @@
   }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+  @media screen and (max-width: 1200px) {
+    .backgrounds {
+      height: auto;
+      padding: 40px;
+    }
   
+    .features-heading,
+    .features-paragraph {
+      margin-left: 5%;
+    }
   
+    .features-icon,
+    .merits1,
+    .merits2 {
+      padding: 30px;
+      font-size: 20px;
+    }
+  
+    .merits2 {
+      font-size: 40px;
+    }
+  }
+  
+  @media screen and (max-width: 992px) {
+    .backgrounds {
+      padding: 30px;
+    }
+  
+    .features,
+    .features-images,
+    .features-inner-images {
+      flex-direction: column;
+      align-items: center;
+      margin-left: 0;
+      gap: 20px;
+    }
+  
+    .features-icon,
+    .merits1,
+    .merits2 {
+      padding: 20px;
+      font-size: 16px;
+    }
+  
+    .merits2 {
+      font-size: 30px;
+    }
+  }
+  
+  @media screen and (max-width: 768px) {
+    .backgrounds {
+      padding: 20px;
+    }
+  
+    .features-heading {
+      font-size: 4rem;
+    }
+  
+    .features-icon,
+    .merits1,
+    .merits2 {
+      padding: 15px;
+      font-size: 14px;
+    }
+  
+    .merits2 {
+      font-size: 24px;
+    }
+  }
+  
+  @media screen and (max-width: 576px) {
+    .backgrounds {
+      padding: 10px;
+    }
+  
+    .features-heading {
+      font-size: 3rem;
+    }
+  
+    .features-icon,
+    .merits1,
+    .merits2 {
+      padding: 10px;
+      font-size: 12px;
+    }
+  
+    .merits2 {
+      font-size: 20px;
+    }
+  }

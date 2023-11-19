@@ -51,3 +51,90 @@
     height: 80%;
   }
    
+
+
+
+
+
+  @media screen and (max-width: 1200px) {
+    .blogs-background {
+      margin-left: 5%;
+      margin-right: 5%;
+    }
+  
+    .heading1 {
+      font-size: 80px;
+    }
+  
+    .blogs,
+    .practices {
+      flex-direction: column;
+      gap: 10%;
+    }
+    .blogs-images{
+      flex-direction: column;
+    }
+  
+    .blogs img,
+    .blogs-image img {
+      width: 96%;
+      height: auto;
+    }
+  }
+  
+  @media screen and (max-width: 992px) {
+    .blogs-background {
+      margin-left: 3%;
+      margin-right: 3%;
+    }
+  
+    .heading1 {
+      font-size: 60px;
+    }
+  
+    .blogs,
+    .practices {
+      flex-direction: column;
+      gap: 5%;
+    }
+  }
+  
+  @media screen and (max-width: 768px) {
+    .blogs-background {
+      margin-left: 2%;
+      margin-right: 2%;
+    }
+  
+    .heading1 {
+      font-size: 40px;
+    }
+  
+    .blogs-icon {
+      font-size: 20px;
+    }
+  
+    .blogs-practics,
+    .blogs-paragrap,
+    .practices-body p,
+    .practices-body h5 {
+      font-size: 20px;
+    }
+  }
+  
+  @media screen and (max-width: 576px) {
+    .blogs-background {
+      margin-left: 1%;
+      margin-right: 1%;
+    }
+  
+    .heading1 {
+      font-size: 30px;
+    }
+  
+    .blogs-practics,
+    .blogs-paragrap,
+    .practices-body p,
+    .practices-body h5 {
+      font-size: 16px;
+    }
+  }
